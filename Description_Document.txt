@@ -1,0 +1,31 @@
+CS313 Web Engineering - Lab 3 Description Document
+
+Name: Mujtaba Umar
+Registration No.: 510196
+Section: BSDS 2A
+
+Project Title:
+Personal Portfolio II
+
+Description:
+This project is a multi-page personal portfolio website created for Lab 3. It
+contains a home page, skills page, hobbies page, gallery page, and contact page.
+All pages share one external CSS stylesheet located in the css folder.
+
+Implemented Requirements:
+1. Project files are organized into HTML files, a css folder, and an images folder.
+2. All styling is stored in css/style.css.
+3. The navigation menu is styled horizontally on desktop screens.
+4. CSS float and clear properties are used for image/text layout, cards, table rows,
+   and the gallery.
+5. The gallery contains at least five images.
+6. The project is ready to upload to GitHub and deploy using GitHub Pages.
+
+GitHub Repository Link:
+https://github.com/your-username/portfolio
+
+GitHub Pages Live Link:
+https://your-username.github.io/portfolio/
+
+Note:
+Replace the placeholder GitHub links and email address before final submission.
