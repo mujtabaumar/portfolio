@@ -22,10 +22,7 @@ Implemented Requirements:
 6. The project is ready to upload to GitHub and deploy using GitHub Pages.
 
 GitHub Repository Link:
-https://github.com/your-username/portfolio
+https://github.com/mujtabaumar/portfolio
 
 GitHub Pages Live Link:
-https://your-username.github.io/portfolio/
-
-Note:
-Replace the placeholder GitHub links and email address before final submission.
+https://mujtabaumar.github.io/portfolio/

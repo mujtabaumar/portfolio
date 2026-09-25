@@ -35,11 +35,14 @@ portfolio/
 
 ## GitHub Pages
 
-After uploading this folder to GitHub, enable GitHub Pages from repository settings.
-The live URL will look like:
+Repository:
 
 ```text
-https://your-username.github.io/portfolio/
+https://github.com/mujtabaumar/portfolio
 ```
 
-Replace the placeholder GitHub username and email in `contact.html` before publishing.
+Live site:
+
+```text
+https://mujtabaumar.github.io/portfolio/
+```
